@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "aoi.db": "^1.1.1",
+    "aoi.js": "^6.4.0",
+    "aoi.parser": "^1.2.6",
+    "express": "^4.18.2"
+  }
+}
